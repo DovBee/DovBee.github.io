@@ -10,8 +10,8 @@
 ## Editing Images
 Image grid is split into 4 columns.
 * Defult image width is 1 column
-* `class=med` spans 2 columns
-* `class=feeature` spans 4 columns
+* `class="med"` spans 2 columns
+* `class="feature"` spans 4 columns
 
 ## Site Features
 * This site uses a Sass grid.
