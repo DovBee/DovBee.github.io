@@ -7,7 +7,13 @@
 * Open localhost:3000
 * All changes are auto refreshed in your local host.
 
-## Features
+## Editing Images
+Image grid is split into 4 columns.
+* Defult image width is 1 column
+* `class=med` spans 2 columns
+* `class=feeature` spans 4 columns
+
+## Site Features
 * This site uses a Sass grid.
 * Fixed/sticky navigation bar
 * One page website
