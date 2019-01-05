@@ -22,7 +22,7 @@ Image grid is split into 4 columns.
 * Media query based off `em` for more consistent viewport breakpoint behavior
 * Gulp tasks that concats Sass, watches files for changes, and reloads local host.
 
-## Notes
+## Notes on Editing
 * Ctrl+[ or ]  formating within the page
 * Add images to the Images folder on the io in the Desktop/work folder
 * Change image names to replace spaces with _
@@ -31,3 +31,9 @@ Image grid is split into 4 columns.
 * Highlight and Ctrl+/ for making a note (not displayed on page)
 * Ctrl+ click selects multiple points for editing
 * Sass compressed into CSS, only edit Sass files
+
+## Notes on Uploading
+* Make sure to save
+* Go to Github Desktop
+* In the Changes tab, add Summary and/or Description and then Commit to Master
+* Click "Push to Origin"
