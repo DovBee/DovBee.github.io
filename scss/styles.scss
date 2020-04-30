@@ -220,10 +220,10 @@ section.icons {
   align-items: center;
   text-align: center;
   @include respond-to(small) {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
   }
   h2 {
-    grid-column: span 2;
+    grid-column: span 3;
   }
   img {
     max-height: 10em;
